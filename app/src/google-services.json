@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679458558040",
+    "project_id": "forestsoftapp",
+    "storage_bucket": "forestsoftapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679458558040:android:a6cc1f2c964d620e98ba2d",
+        "android_client_info": {
+          "package_name": "com.forestsoft.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679458558040-n5kl5ot4v1pcu6ul54j8i51s54pkjnek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ4RCed8ckeLnuj6RlWsu1aUBhe5H9x6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679458558040-n5kl5ot4v1pcu6ul54j8i51s54pkjnek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

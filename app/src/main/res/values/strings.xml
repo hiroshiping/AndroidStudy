@@ -1,0 +1,11 @@
+<resources>
+    <string name="appName">Register</string>
+    <string name="login">ログイン</string>
+    <string name="tv_mail">メール:</string>
+    <string name="tv_password">パスワード:</string>
+    <string name="bt_log">ログイン</string>
+    <string name="bt_cancel">キャンセル</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
